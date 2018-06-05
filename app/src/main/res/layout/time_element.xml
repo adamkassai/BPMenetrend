@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/departure"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/predicted"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/timeRoute"
+        android:layout_width="50dp"
+        android:layout_height="25dp"
+        android:padding="2dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/timeDirection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BP Menetrend</string>
+    <string name="favourites">Kedvencek</string>
+    <string name="search">Keresés</string>
+    <string name="submit">Küldés</string>
+    <string name="responseError">Hiba a Futártól kapott válaszban</string>
+    <string name="networkError">Hálózati hiba</string>
+    <string name="notFound">Nincs találat</string>
+    <string name="toFavourites">Kedvencek közé</string>
+    <string name="emptySearch">Nincs megadva keresési feltétel</string>
+    <string name="tripDetails">Menet részletei</string>
+    <string name="welcome">Bevezetés</string>
+    <string name="saveSuccess">Elmentve</string>
+    <string name="delSuccess">Eltávolítva</string>
+    <string name="noTrip">A közeljövőben nem indul járat innen</string>
+    <string name="chooseFavourites">Válaszd ki leggyakrabban használt megállóidat, és mentsd a kedvencek közé!</string>
+    <string name="welcomeTitle">Üdvözöllek!</string>
+    <string name="findStops">Megállók keresése</string>
+    <string name="internetNeeded">Az alkalmazás használatához internetkapcsolat szükséges!</string>
+    <string name="logo">Logo</string>
+    <string name="tooShort">Legalább 3 karakter megadása szükséges</string>
+    <string name="loading">Töltés...</string>
+</resources>
